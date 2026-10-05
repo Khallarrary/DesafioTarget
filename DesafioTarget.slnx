@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DesafioTarget/DesafioTargetVendas.csproj" />
+  <Project Path="DesafioTargetEstoque/DesafioTargetEstoque.csproj" Id="3ebfd98c-8b34-40d0-9960-8d5e2c86002c" />
+</Solution>
